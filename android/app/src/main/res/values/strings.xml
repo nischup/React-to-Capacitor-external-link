@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PlayerProps</string>
+    <string name="title_activity_main">PlayerProps</string>
+    <string name="package_name">com.playerprops.app</string>
+    <string name="custom_url_scheme">com.playerprops.app</string>
+</resources>

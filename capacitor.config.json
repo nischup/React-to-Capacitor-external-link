@@ -1,0 +1,9 @@
+{
+  "appId": "com.playerprops.app",
+  "appName": "PlayerProps",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "server": {
+    "url": "https://playerprops.ai"
+  }
+}
